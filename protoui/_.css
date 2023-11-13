@@ -1,0 +1,45 @@
+.webix-form-border-hide{
+    border:none
+}
+.dynamicList-column-disable{
+    background-color:#d6d6d6;   
+}
+.dynamiclist-row-addbutton > .webix_el_box > .webix_button > .webix_icon_btn   {
+    color:#1992af;
+}
+.dynamiclist-row-deletebutton > .webix_el_box > .webix_button > .webix_icon_btn   {
+    color:rgb(66, 66, 66);
+}
+.dynamicHeader{
+    background-color: #F4F5F9;
+    text-align: center;
+    font-weight: bolder;   
+    border-width: 1px;
+}
+.dynamicHeader-operate{
+   background-color: #F4F5F9;
+   border: none;
+}
+.popupdatatablecombo-icon > .webix_el_box > .webix_img_btn {
+    background-color: transparent;
+    border-right: solid 1px;
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    border-color: #CCD7E6;
+    color:#CCD7E6;
+}
+
+.popupdatatablecombo-icon >  .webix_el_box > .webix_img_btn > .webix_icon_btn   { 
+    color:#94A1B3;
+}
+
+.no-spinners::-webkit-inner-spin-button,
+.no-spinners::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.formlayout {
+    display: flex !important;
+    flex-wrap: wrap; 
+}
